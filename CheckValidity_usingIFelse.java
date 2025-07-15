@@ -1,4 +1,4 @@
-public class CheckValidity {
+public class CheckValidity_usingIFelse {
 
 	public static void main(String[] args) {
 		
